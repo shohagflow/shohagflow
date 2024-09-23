@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a web designer.The job isn’t complete until my client is satisfied! I work hard to earn the best feedback from my clients. If you are looking for a web professional at an affordable price, look no further. Browse my portfolio, feedback, and projects, and please do not hesitate to reach out to me
+I enjoy building websites that are both attractive and user-friendly. I collaborate with clients to learn about their requirements and develop websites that achieve their objectives.
 
 
 ## 🌐 Socials:
