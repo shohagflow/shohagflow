@@ -1,4 +1,4 @@
-![logo]([https://github.com/shohagflow/shohagflow/blob/main/Banner-git.png](https://github.com/shohagflow/shohagflow/blob/main/Banner-git.webp)
+![logo](https://github.com/shohagflow/shohagflow/blob/main/Banner-git.png](https://github.com/shohagflow/shohagflow/blob/main/Banner-git.webp)
 # 💫 About Me:
 I’m Shohag Rana, a passionate and results-driven Full-Stack Developer with 2+ years of professional experience building scalable web applications, custom WordPress solutions, and AI-powered automation systems.
 
