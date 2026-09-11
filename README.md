@@ -1,8 +1,8 @@
 ![logo](https://github.com/shohagflow/shohagflow/blob/main/Banner.jpg)
 # 💫 About Me:
-I’m Shohag Rana, a passionate and results-driven Full-Stack Developer with 3+ years of professional experience building scalable web applications, custom WordPress solutions, and AI-powered automation systems.
+I’m Shohag Rana, a passionate and results-driven Full-Stack Developer with 3+ years of professional experience building scalable web applications, custom WordPress themes and plugins, and AI-powered automation systems.
 
-I specialize in developing modern, responsive, and high-performance applications using JavaScript, PHP, React, Node.js, WordPress, and AI technologies. My expertise spans both frontend and backend development, allowing me to deliver complete end-to-end solutions tailored to business requirements.
+I specialize in developing modern, responsive, and high-performance applications using JavaScript, PHP, React, Node.js, and WordPress. My expertise includes custom WordPress theme development, custom plugin development, API integration, advanced backend functionality, and building tailored solutions that meet unique business requirements.
 
 
 ## 🌐 Socials:
