@@ -3,6 +3,7 @@
 I’m Shohag Rana, a passionate and results-driven Full-Stack Developer with 3+ years of professional experience building scalable web applications, custom WordPress themes and plugins, AI-powered systems, and workflow automation using n8n and Zapier.
 
 I specialize in developing modern, responsive, and high-performance applications using JavaScript, PHP, React, Node.js, and WordPress. My expertise includes custom WordPress theme and plugin development, API integration, and advanced backend functionality
+## WhatsApp: 01756661275
 
 
 ## 🌐 Socials:
