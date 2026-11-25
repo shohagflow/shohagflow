@@ -1,4 +1,4 @@
-![logo](https://github.com/shohagflow/shohagflow/blob/main/Banner.jpg)
+![logo](https://github.com/shohagflow/shohagflow/blob/main/Linkedin-banner.jpeg)
 # 💫 About Me:
 I’m Shohag Rana, a passionate and results-driven Full-Stack Developer with 3+ years of professional experience building scalable web applications, custom WordPress themes and plugins, AI-powered systems, and workflow automation using n8n and Zapier.
 
